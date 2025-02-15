@@ -126,7 +126,7 @@ $$\mathrm{SE}(\hat\beta_1)^2 = \frac{\sigma^2}{\sum_{i=1}^n (x_i - \bar{x})^2}$$
 
 
 - **95% confidence interval:** 
-    - a range of values such that with 95% probability, the range will contain the true unknown value of the parameter
+    - if we take repeated samples and construct the confidence interval for each sample, 95% of the intervals will contain the true unknown value of the parameter.
     - "95" is just a common number
 
 - The 95% CI limits are formed by:
